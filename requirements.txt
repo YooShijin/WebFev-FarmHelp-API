@@ -1,1 +1,11 @@
-ÿþ
+fastapi
+Flask
+gunicorn
+numpy
+opencv-python
+pandas
+pillow
+requests
+tensorflow
+typing_extensions
+uvicorn
